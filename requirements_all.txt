@@ -55,7 +55,7 @@ PyQRCode==1.2.1
 PyRMVtransport==0.1
 
 # homeassistant.components.switch.switchbot
-PySwitchbot==0.3
+PySwitchbot==0.4
 
 # homeassistant.components.xiaomi_aqara
 PyXiaomiGateway==0.10.0
